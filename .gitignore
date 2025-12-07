@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.pyc
+.ipynb_checkpoints/
